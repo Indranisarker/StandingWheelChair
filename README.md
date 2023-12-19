@@ -21,4 +21,4 @@ The Stand-N-Move Chair is an innovative electric wheelchair designed to transfor
 3. **Control Movement:** Use head movements to control direction and movement.
 4. **Safety First:** Ensure proper use by following safety guidelines provided in the user manual.
 
-For more details, please visit our project repository (https://github.com/Indranisarker/StandingWheelChair.git)
+For more details, please visit our project repository https://github.com/Indranisarker/StandingWheelChair.git
